@@ -1,4 +1,4 @@
-# AkademiHUB
+# AkademiHUB by Arda Demirel,Yusuf Matur,Berat Çetin,Sevcan Karabıçak from Google Game & App Academy 2023 APPJAM
 
 * AkademiHUB akademi bursiyerlerinin ve moderatörlerinin,gerek motivasyon gerekse yardımlaşma amacıyla kullanabileceği bir iletişim platformudur.
 * Uygulama açıldığında,backend'de firebase ile desteklediğimiz bir Authentication ekranı ve  üye olma butonu karşılıyor.Burada kaydınız yoksa, Üye ol kısmından gerekli bilgileri girerek üye olabiliyoruz.
